@@ -15,7 +15,7 @@ permissions:
 jobs:
   integration:
     name: Continuous Integration
-    runs-on: selft-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
