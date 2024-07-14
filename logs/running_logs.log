@@ -1,0 +1,8 @@
+[2024-07-14 16:35:38,937: INFO: server: Started server process [18566]]
+[2024-07-14 16:35:38,937: INFO: on: Waiting for application startup.]
+[2024-07-14 16:35:38,938: INFO: on: Application startup complete.]
+[2024-07-14 16:35:38,938: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-07-14 16:47:12,012: INFO: server: Shutting down]
+[2024-07-14 16:47:12,114: INFO: on: Waiting for application shutdown.]
+[2024-07-14 16:47:12,114: INFO: on: Application shutdown complete.]
+[2024-07-14 16:47:12,114: INFO: server: Finished server process [18566]]
